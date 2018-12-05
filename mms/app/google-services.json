@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "420082787471",
+    "firebase_url": "https://messmanagementsystem-b5712.firebaseio.com",
+    "project_id": "messmanagementsystem-b5712",
+    "storage_bucket": "messmanagementsystem-b5712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420082787471:android:559ab8650b140fe4",
+        "android_client_info": {
+          "package_name": "it.haxlon.com.mms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420082787471-unnb6iaqie8rgobmockh7qqnko0r2s24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.haxlon.com.mms",
+            "certificate_hash": "e4c0190e02ef6b0b43dfbdd2709673e854c95365"
+          }
+        },
+        {
+          "client_id": "420082787471-fgqa0nv6i31894m6qr9ranujdc81j7eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCLi2_lkt5aTCSOSq8gIa-c5fcSKp8OU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420082787471-fgqa0nv6i31894m6qr9ranujdc81j7eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
